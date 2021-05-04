@@ -23,3 +23,6 @@ Using various JOIN functions, I performed the following queries on our dataset:
 For Bonus, I imported the SQL database into Jupyter Notebook to perform the following actions using Pandas:
     - Create a histogram to visualize the most common salary ranges for employees.
     - Create a bar chart of average salary by title.
+
+![Screen Shot 2021-05-03 at 9 28 22 PM](https://user-images.githubusercontent.com/23372412/116951993-80533100-ac57-11eb-9771-fbec050a9f81.png)
+![Screen Shot 2021-05-03 at 9 35 44 PM](https://user-images.githubusercontent.com/23372412/116951999-85b07b80-ac57-11eb-8fe6-20b383dd542c.png)
